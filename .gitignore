@@ -1,0 +1,29 @@
+# Virtual envs
+.venv/
+venv/
+env/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+
+# Editor
+.idea/
+.vscode/
+*.swp
+.DS_Store
+
+# Outputs
+*.csv
+*.mp4
+*.avi
+out/
+runs/
+
+# Model + data caches (user-local, large)
+.cache/
+~/.cache/multimodal-emotion/

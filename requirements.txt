@@ -1,0 +1,11 @@
+# Visual pipeline
+emotiefflib>=1.1.1
+opencv-python>=4.10
+mediapipe>=0.10.30
+numpy>=1.26
+
+# Speech pipeline
+transformers>=4.40
+torch>=2.0
+sounddevice>=0.5
+soundfile>=0.12
